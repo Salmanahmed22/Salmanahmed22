@@ -28,8 +28,25 @@ I'm a passionate Web Developer with three years of coding experience. I speciali
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Salmanahmed22/Amit-restaurant-MERN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=Amit-restaurant-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Salmanahmed22/shopwise-AMIT-Frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=shopwise-AMIT-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Salmanahmed22/Amit-restaurant-MERN" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=Amit-restaurant-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Salmanahmed22/shopwise-AMIT-Frontend" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=shopwise-AMIT-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
-<br /><br /><br /><br /><br />
+<br clear="both"/>
 
-<div width="100%" align="center"><a href="https://github.com/Salmanahmed22/SpringBoot_learningMangementSystem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=SpringBoot_learningMangementSystem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Salmanahmed22/CPU-Schedulers-Simulator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=CPU-Schedulers-Simulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/Salmanahmed22/SpringBoot_learningMangementSystem" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=SpringBoot_learningMangementSystem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Salmanahmed22/CPU-Schedulers-Simulator" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salmanahmed22&repo=CPU-Schedulers-Simulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br clear="both"/>
+
